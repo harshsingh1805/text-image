@@ -78,7 +78,7 @@ npm run dev
 ```
 
 ###6. Run backend Server at Backend at root folder
-``bash
+```bash
 npm run server
 ```
 
